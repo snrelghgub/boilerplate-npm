@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"description": "A project to build & gain new hands-on experience writing & editing packpage.json file (Back-end deveolopment)",
+	"description": "A project to build & gain new hands-on experience writing & editing packpage.json file (Back-end development)",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
