@@ -1,0 +1,18 @@
+{
+	"name": "fcc-learn-npm-package-json",
+	"description": "A project to build & gain new hands-on experience writing & editing packpage.json file (Back-end development)",
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"engines": {
+		"node": "8.11.2"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
+}
